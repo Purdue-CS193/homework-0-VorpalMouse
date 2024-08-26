@@ -1,25 +1,22 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Yep
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Wooo
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
+This is great
+```here's a rectangle of
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# yeah!
+## Yeah!!
+### Yeah!!!
 
-- Bulleted
-- List
+- woo
+- hoo
 
-1. Numbered
-2. List
+1. hoo
+2. ray
 
 **Bold** and _Italic_ and `Code` text
 
